@@ -6,9 +6,10 @@ Angular Tutorial Series
 
 ## Install Angular CLI
 Global Install `npm install -g @angular/cli`
-### Check Angular version
+## Check Angular version
 `ng version`
-
-
-
+## Serve locally on localhost:4200
+`ng serve`
+## Generate new component
+`ng generate component componentName`
 
