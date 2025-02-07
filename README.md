@@ -4,19 +4,20 @@ Angular Tutorial Series
 *node version 20.16.0*
 *Angular CLI 19.1.5*
 
-## Setup Commands
-### Install Angular CLI
+
+# Setup Commands
+## Install Angular CLI
 Global Install `npm install -g @angular/cli`
-### Check Angular version
+## Check Angular version
 `ng version`
-### Serve locally on localhost:4200
+## Serve locally on localhost:4200
 `ng serve`
-### Generate new component
+## Generate new component
 `ng generate component componentName`
-### Generate new interface
+## Generate new interface
 `ng generate interface interfaceName`
 
-## To Utilize Created Components
+# To Utilize Created Components
 1. Import component: `import {HomeComponent} from './home/home.component';`
 2. Add component to @Component Imports
 ```
