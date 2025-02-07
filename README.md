@@ -13,6 +13,8 @@ Global Install `npm install -g @angular/cli`
 `ng serve`
 ## Generate new component
 `ng generate component componentName`
+## Generate new interface
+`ng generate interface interfaceName`
 
 ### To Utilize Created Components
 1. Import component: `import {HomeComponent} from './home/home.component';`
